@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental", "CarRental.csproj", "{9DE42D7B-081B-4831-9934-CE4EFD9BA715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{42928316-C6AB-4635-810D-CE68876D10E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBusiness", "..\DataBusiness\DataBusiness.csproj", "{0BA5094F-0C5A-440D-81F9-3D7819C07379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DE42D7B-081B-4831-9934-CE4EFD9BA715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE42D7B-081B-4831-9934-CE4EFD9BA715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE42D7B-081B-4831-9934-CE4EFD9BA715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE42D7B-081B-4831-9934-CE4EFD9BA715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42928316-C6AB-4635-810D-CE68876D10E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42928316-C6AB-4635-810D-CE68876D10E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42928316-C6AB-4635-810D-CE68876D10E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42928316-C6AB-4635-810D-CE68876D10E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA5094F-0C5A-440D-81F9-3D7819C07379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA5094F-0C5A-440D-81F9-3D7819C07379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA5094F-0C5A-440D-81F9-3D7819C07379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA5094F-0C5A-440D-81F9-3D7819C07379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41C864E9-8D66-4FC8-A4B5-FD9B07BB1F27}
+	EndGlobalSection
+EndGlobal
